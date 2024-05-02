@@ -14,11 +14,11 @@ C:\Users\User\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Fina
 C:\Users\User\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\bin\Debug\StoreGUI.pdb
 C:\Users\User\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.csproj.AssemblyReference.cache
 C:\Users\User\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.csproj.SuggestedBindingRedirects.cache
-C:\Users\User\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.Form1.resources
 C:\Users\User\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.Properties.Resources.resources
 C:\Users\User\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.csproj.GenerateResource.cache
 C:\Users\User\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.csproj.CoreCompileInputs.cache
 C:\Users\User\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.exe
 C:\Users\User\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.pdb
-C:\Users\User\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.Form2.resources
-C:\Users\User\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.Form3.resources
+C:\Users\User\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.Queries.resources
+C:\Users\User\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.AppStart.resources
+C:\Users\User\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.DisplayEditTables.resources
