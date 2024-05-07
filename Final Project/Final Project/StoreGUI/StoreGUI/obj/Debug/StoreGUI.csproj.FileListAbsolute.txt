@@ -1,0 +1,37 @@
+C:\Users\fpipe\Desktop\C#\StoreGUI\StoreGUI\bin\Debug\StoreGUI.exe.config
+C:\Users\fpipe\Desktop\C#\StoreGUI\StoreGUI\bin\Debug\StoreGUI.exe
+C:\Users\fpipe\Desktop\C#\StoreGUI\StoreGUI\bin\Debug\StoreGUI.pdb
+C:\Users\fpipe\Desktop\C#\StoreGUI\StoreGUI\obj\Debug\StoreGUI.csproj.AssemblyReference.cache
+C:\Users\fpipe\Desktop\C#\StoreGUI\StoreGUI\obj\Debug\StoreGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\fpipe\Desktop\C#\StoreGUI\StoreGUI\obj\Debug\StoreGUI.Form1.resources
+C:\Users\fpipe\Desktop\C#\StoreGUI\StoreGUI\obj\Debug\StoreGUI.Properties.Resources.resources
+C:\Users\fpipe\Desktop\C#\StoreGUI\StoreGUI\obj\Debug\StoreGUI.csproj.GenerateResource.cache
+C:\Users\fpipe\Desktop\C#\StoreGUI\StoreGUI\obj\Debug\StoreGUI.csproj.CoreCompileInputs.cache
+C:\Users\fpipe\Desktop\C#\StoreGUI\StoreGUI\obj\Debug\StoreGUI.exe
+C:\Users\fpipe\Desktop\C#\StoreGUI\StoreGUI\obj\Debug\StoreGUI.pdb
+C:\Users\User\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\bin\Debug\StoreGUI.exe.config
+C:\Users\User\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\bin\Debug\StoreGUI.exe
+C:\Users\User\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\bin\Debug\StoreGUI.pdb
+C:\Users\User\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.Properties.Resources.resources
+C:\Users\User\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.exe
+C:\Users\User\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.pdb
+C:\Users\User\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.Queries.resources
+C:\Users\User\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.AppStart.resources
+C:\Users\User\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.DisplayEditTables.resources
+C:\Users\fpipe\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\bin\Debug\StoreGUI.exe.config
+C:\Users\fpipe\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\bin\Debug\StoreGUI.exe
+C:\Users\fpipe\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\bin\Debug\StoreGUI.pdb
+C:\Users\fpipe\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.csproj.AssemblyReference.cache
+C:\Users\fpipe\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\fpipe\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.Queries.resources
+C:\Users\fpipe\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.AppStart.resources
+C:\Users\fpipe\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.DisplayEditTables.resources
+C:\Users\fpipe\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.Properties.Resources.resources
+C:\Users\fpipe\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.csproj.GenerateResource.cache
+C:\Users\fpipe\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.csproj.CoreCompileInputs.cache
+C:\Users\fpipe\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.exe
+C:\Users\fpipe\OneDrive - buffalostate.edu\Desktop\School\CIS 411 - Database\Final Project\StoreGUI\StoreGUI\obj\Debug\StoreGUI.pdb
