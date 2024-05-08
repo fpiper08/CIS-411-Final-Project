@@ -1,0 +1,2 @@
+DELETE FROM Items
+WHERE UPC = @Param1;
